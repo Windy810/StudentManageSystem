@@ -1,0 +1,301 @@
+# depslib dependency file v1.0
+1559288246 source:d:\c\manage\count_file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559280242 d:\c\manage\headfile.h
+
+1559286626 source:d:\c\manage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559287332 source:d:\c\manage\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559283758 source:d:\c\manage\menu_find_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559282590 source:d:\c\manage\read_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559280242 source:d:\c\manage\output_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559281750 source:d:\c\manage\save_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559280996 source:d:\c\manage\create_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559281978 source:d:\c\manage\find_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559298127 source:c:\users\zyazh\desktop\manage\count_file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559280242 c:\users\zyazh\desktop\manage\headfile.h
+
+1559280996 source:c:\users\zyazh\desktop\manage\create_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559281978 source:c:\users\zyazh\desktop\manage\find_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559286626 source:c:\users\zyazh\desktop\manage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559287332 source:c:\users\zyazh\desktop\manage\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559283758 source:c:\users\zyazh\desktop\manage\menu_find_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559280242 source:c:\users\zyazh\desktop\manage\output_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559282590 source:c:\users\zyazh\desktop\manage\read_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559281750 source:c:\users\zyazh\desktop\manage\save_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559300102 source:d:\c\c2\count_file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559280242 d:\c\c2\headfile.h
+
+1559280996 source:d:\c\c2\create_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559281978 source:d:\c\c2\find_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559286626 source:d:\c\c2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559287332 source:d:\c\c2\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559283758 source:d:\c\c2\menu_find_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559280242 source:d:\c\c2\output_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559302090 source:d:\c\c2\read_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559281750 source:d:\c\c2\save_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559302114 source:d:\c\zpf\count_file.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559280242 d:\c\zpf\headfile.h
+
+1559280996 source:d:\c\zpf\create_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559281978 source:d:\c\zpf\find_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559286626 source:d:\c\zpf\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559287332 source:d:\c\zpf\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559283758 source:d:\c\zpf\menu_find_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559280242 source:d:\c\zpf\output_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559302090 source:d:\c\zpf\read_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
+1559281750 source:d:\c\zpf\save_file.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+	<math.h>
+	"headfile.h"
+
